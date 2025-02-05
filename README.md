@@ -1,2 +1,2 @@
-phen# complete-python
+complete-python
 python up-skills projects
