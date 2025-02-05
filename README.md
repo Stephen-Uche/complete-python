@@ -1,2 +1,2 @@
-## complete-python
-# python up-skills projects
+
+# Python Up-Skills projects
